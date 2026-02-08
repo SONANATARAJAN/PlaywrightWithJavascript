@@ -149,8 +149,8 @@ npx playwright test
 ### 7.2 Run tests in headed mode
 
 ```bash
-npx playwright test --headed
-```
+**npx playwright test --headed
+**```
 
 ---
 
