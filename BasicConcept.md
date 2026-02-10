@@ -1,6 +1,6 @@
 # Playwright with JavaScript – Basic Concepts (Notes)
 
-> **Format:** Quick reference / notes (no explanations)
+> **Format:** Quick reference / notes
 
 ---
 
