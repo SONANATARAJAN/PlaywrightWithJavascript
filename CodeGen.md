@@ -1,4 +1,4 @@
-# Playwright Codegen – Complete Notes (.md)
+# Playwright Codegen 
 
 > **Purpose:** Auto-generate Playwright test code by recording browser actions
 
