@@ -38,6 +38,13 @@ npx playwright codegen --browser=webkit
 ```
 
 ---
+## Codegen With Specific Browser with Authendication
+```bash
+npx playwright codegen https://localhost:10005/app/login \
+  --browser=chromium \
+  --ignore-https-errors
+```
+---
 
 ## 5. Codegen Output Language
 
