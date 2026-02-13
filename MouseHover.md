@@ -53,7 +53,7 @@ await page.locator('#menu').hover();
 
 ---
 
-## 5. Hover + Click (Very Common)
+## 5. Hover + Click  
 
 Example: Dropdown menu → click submenu
 
@@ -262,18 +262,4 @@ test('Hover menu test', async ({ page }) => {
 * Avoid mouse API unless required
 
 ---
-
-## ✅ End of Hover in Playwright Guide
-
-```
-
----
-
-If you want, next I can:
-- Convert this into **PDF**
-- Add **real website examples**
-- Give **Playwright hover interview Q&A**
-- Combine **hover + dropdown + tooltip + iframe examples**
-
-Just tell me 👍
-```
+ 
