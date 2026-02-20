@@ -1,11 +1,4 @@
-Here is your complete **Data-Driven Testing in JavaScript with Playwright** notes in `.md` format.
-
-You can copy this into a file like:
-
-```
-data-driven-testing-playwright.md
-```
-
+ 
 ---
 
 # Data-Driven Testing in JavaScript with Playwright
