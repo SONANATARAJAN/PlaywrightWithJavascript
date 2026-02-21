@@ -401,13 +401,4 @@ Data-Driven Testing in Playwright:
 * Supports real-world enterprise automation
 
 ---
-
-If you want, I can next provide:
-
-* 🔥 Database-driven testing in Playwright
-* 🔥 API Data-driven testing with Playwright
-* 🔥 Page Object Model + Data Driven Integration
-* 🔥 Complete Framework Structure
-* 🔥 Interview Questions & Answers
-
-Just tell me which one you need 🚀
+ 
