@@ -1,8 +1,3 @@
-Below is a **complete Markdown (`.md`) document** covering **Iframe Handling** and **Dynamic Network / Loader State Handling in Playwright**, with **clear explanations, best practices, and real examples**.
-
-You can **copy-paste and save this as `playwright-iframe-network-loader.md`**.
-
----
 
 ````md
 # Playwright Iframe & Dynamic Network / Loader State – Complete Guide
