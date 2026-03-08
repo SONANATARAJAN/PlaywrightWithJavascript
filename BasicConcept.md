@@ -1,7 +1,6 @@
-# Playwright with JavaScript – Basic Concepts (Notes)
+# Playwright with JavaScript – Basic Concepts 
 
-> **Format:** Quick reference / notes
-
+ 
 ---
 
 ## 1. Installation & Setup
