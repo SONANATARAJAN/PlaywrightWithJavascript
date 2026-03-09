@@ -1,12 +1,4 @@
-Here is your **Complete CI/CD with Playwright + Jenkins Notes** in **Markdown (.md) format**.
-
-You can save this as:
-
-```bash
-Playwright_Jenkins_CICD_Complete_Guide.md
-```
-
----
+ 
 
 # 📘 Playwright + Jenkins CI/CD – Complete Guide
 
