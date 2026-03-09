@@ -464,16 +464,4 @@ project/
 
 > CI/CD in Playwright using Jenkins means automatically building, installing dependencies, executing Playwright tests, generating reports, and notifying stakeholders whenever code is pushed to the repository, ensuring continuous quality validation.
 
----
-
----
-
-If you want next:
-
-* 🔥 Playwright CI/CD with GitHub Actions
-* 🔥 Playwright CI/CD with Azure DevOps
-* 🔥 Complete Docker + Jenkins Setup
-* 🔥 Advanced Jenkins Pipeline (Multi-branch)
-* 🔥 Real-Time Company Level Framework Setup
-
-Tell me 👍
+ 
