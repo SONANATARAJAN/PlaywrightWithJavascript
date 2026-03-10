@@ -1,11 +1,4 @@
-Below is a **complete, structured Markdown (`.md`) guide** covering **File Upload in Playwright JavaScript** **+ all locator types**, **best practices**, **how to choose the right locator**, and **real-world examples**.
-
-You can **copy–paste this directly into a `.md` file**.
-
----
-
-````md
-# 📂 File Upload in Playwright (JavaScript) — Complete Guide
+ 
 
 This document explains **everything about file upload in Playwright** and **how to choose the best locators** using Playwright JavaScript.
 
