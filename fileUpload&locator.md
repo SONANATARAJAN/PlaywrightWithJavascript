@@ -1,7 +1,6 @@
  
 
-This document explains **everything about file upload in Playwright** and **how to choose the best locators** using Playwright JavaScript.
-
+ 
 Framework: :contentReference[oaicite:0]{index=0}  
 Language: JavaScript  
 Audience: QA, SDET, Automation Engineers
