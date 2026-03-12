@@ -1,7 +1,6 @@
  
 
-# 📘 Playwright + Jenkins CI/CD – Complete Guide
-
+ 
 ---
 
 # 1️⃣ What is CI/CD?
